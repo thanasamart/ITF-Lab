@@ -1,4 +1,4 @@
-#ITF-Lab4 2018
+#ITF-Lab 2018
 
 ##Auther
- Mr. Thana Samart 61070079
+ # Mr. Thana Samart 61070079
